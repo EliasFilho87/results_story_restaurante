@@ -1,0 +1,20 @@
+{
+  "prato_do_dia": {
+    "produto": "Luminária 1",
+    "quantidade": 99
+  },
+  "item_gourmet": {
+    "produto": "Monitor 2",
+    "ticket_medio": 2112.66
+  },
+  "mesa_cativa": {
+    "cliente_id": 38,
+    "cliente_nome": "Cliente 038",
+    "num_pedidos": 10
+  },
+  "cafe": {
+    "clientes_uma_compra": 9,
+    "percentual": 7.5,
+    "total_clientes": 120
+  }
+}
