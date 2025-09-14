@@ -9,9 +9,11 @@ Resultados (2025-01 a 2025-08, pedidos “Concluído”):
 
 **Gráficos**
 
-![Prato do Dia](results_story_restaurante/top_qty_products.png)
+<p float="left">
+  <img src="results_story_restaurante/top_qty_products.png?raw=1" alt="Prato do Dia" width="49%" />
+  <img src="results_story_restaurante/top_ticket_products.png?raw=1" alt="Item Gourmet" width="49%" />
+</p>
 
-![Item Gourmet](results_story_restaurante/top_ticket_products.png)
 
 Relato completo: [`results_story_restaurante/story_restaurante.md`](results_story_restaurante/story_restaurante.md)  
 Código: [`python_analysis/story_restaurante.py`](python_analysis/story_restaurante.py)
